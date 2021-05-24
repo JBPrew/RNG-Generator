@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mCcsxZkPq/6jWHVTnby+rUD1vJi63nfcEBsNqb186q9KUQakOSqMKt3ZU99StZTuwR/yU+7auHvt+ttBpAb/fg==",
+  "success": true,
+  "projectFilePath": "c:\\SciFair\\RNG Generator\\C#\\C#RNG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jack's PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

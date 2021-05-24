@@ -1,0 +1,13 @@
+c:\SciFair\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.exe
+c:\SciFair\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.deps.json
+c:\SciFair\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.runtimeconfig.json
+c:\SciFair\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.runtimeconfig.dev.json
+c:\SciFair\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.dll
+c:\SciFair\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.pdb
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.csprojAssemblyReference.cache
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.AssemblyInfoInputs.cache
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.AssemblyInfo.cs
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.csproj.CoreCompileInputs.cache
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.dll
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.pdb
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.genruntimeconfig.cache
